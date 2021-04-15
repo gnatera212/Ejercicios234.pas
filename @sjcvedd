@@ -1,0 +1,56 @@
+// PROGRAMACION 1 - PROFESOR: SILVESTRE CARDENAS - (25/02/2021) //
+// UNIMAR- ALMA MATER DEL CARIBE //
+// EXAMEN //
+// ALUMNO = Giwalys Natera -29817894 //
+
+//ejercicio2
+
+
+
+Ejercicio2 EOF: Es una función que devuelve verdadero (true), cuando el puntero del archivo está al final de dicho archivo. EOF que significa End Of File (fin de archivo).
+
+
+
+
+
+
+//ejercicio3
+
+
+
+PROGRAM Serie_fibonacci;
+
+var n, ant2, ante, fibo, cont : integer;
+ begin
+   writeln('Serie fibonacci');
+   writeln('¿Qué cantidad de terminos quiere ver en la serie');
+   readln (n);
+   ant1:= 0;
+   ant2:= 1;
+   fibo:= 1;
+   cont:= 0;
+   while (cont<=) do
+   begin
+      fibo:= ant2 + ant1;
+      ant2:= ant1;
+      ant1:= fibo;
+   end;
+   write('...');
+ End.
+ 
+ 
+ 
+ 
+ 
+ 
+ //ejercicio4
+ 
+ 
+ 
+*AssigFile (archivo,"archivo.txt");
+*rewrite (archivo);
+*writeln (archivo."Hola mundo.");
+*close (archivo);
+*reset (archivo);
+*eof (archivo);
+*writeln (archivo, "Hola mundo."); 
