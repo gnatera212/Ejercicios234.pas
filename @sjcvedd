@@ -1,4 +1,4 @@
-// PROGRAMACION 1 - PROFESOR: SILVESTRE CARDENAS - (25/02/2021) //
+// PROGRAMACION 1 - PROFESOR: SILVESTRE CARDENAS - (15/04/2021)//
 // UNIMAR- ALMA MATER DEL CARIBE //
 // EXAMEN //
 // ALUMNO = Giwalys Natera -29817894 //
@@ -13,6 +13,10 @@ Ejercicio2 EOF: Es una función que devuelve verdadero (true), cuando el puntero
 
 
 
+// PROGRAMACION 1 - PROFESOR: SILVESTRE CARDENAS - (15/04/2021)//
+// UNIMAR- ALMA MATER DEL CARIBE //
+// EXAMEN //
+// ALUMNO = Giwalys Natera -29817894 //
 
 //ejercicio3
 
@@ -42,8 +46,12 @@ var n, ant2, ante, fibo, cont : integer;
  
  
  
- 
- //ejercicio4
+ // PROGRAMACION 1 - PROFESOR: SILVESTRE CARDENAS - (15/04/2021)//
+// UNIMAR- ALMA MATER DEL CARIBE //
+// EXAMEN //
+// ALUMNO = Giwalys Natera -29817894 //
+
+//ejercicio4
  
  
  
